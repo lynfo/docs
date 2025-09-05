@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Lymfo",
   "colors": {
-    "primary": "#202020",
-    "light": "#202020",
-    "dark": "#FDFDFD"
+    "primary": "#6B8E22",
+    "light": "#6B8E22",
+    "dark": "#6B8E22"
   },
   "favicon": "/_images/favicon/favicon.svg",
   "navigation": {
